@@ -10,6 +10,8 @@ export default function App() {
   );
 }
 
+console.log("Prueba git");
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
